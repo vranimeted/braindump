@@ -1,2 +1,2 @@
 # braindump
-Quick Speech to Text Dictation web app for cross platform access and includes text organization
+quick webapp to turn dictation into text to access from anywhere and send to anything that includes Groq reformatting of text.
